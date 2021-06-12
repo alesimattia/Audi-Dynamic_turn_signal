@@ -1,8 +1,0 @@
-{
-    "board": "arduino:avr:mega",
-    "configuration": "cpu=atmega2560",
-    "port": "/dev/ttyACM0",
-    "sketch": "Dynamic_light.ino",
-    "output": "/home/alesi/Arduino/vscode_output",
-    "programmer": "arduino:avrispmkii"
-}
